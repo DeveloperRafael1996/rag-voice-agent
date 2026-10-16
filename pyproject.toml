@@ -5,7 +5,7 @@ description = "Add your description here"
 authors = [
     { name = "Rafael Guevara Aller", email = "djzm80@gmail.com" }
 ]
-requires-python = ">=3.13"
+requires-python = ">=3.13,<3.14"
 dependencies = [
     "cartesia==1.4.0",
     "livekit==1.1.20",
